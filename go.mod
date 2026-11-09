@@ -3,7 +3,7 @@ module github.com/garethjevans/semver
 go 1.21.5
 
 require (
-	github.com/carvel-dev/semver/v4 v4.0.1-0.20230221220520-8090ce423695
+	github.com/carvel-dev/semver/v4 v4.0.1
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.34.0
 	github.com/spf13/cobra v1.8.1
